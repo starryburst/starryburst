@@ -2,4 +2,4 @@
 
 I'm High schooler wanting to study in computer science! This is not my main github account.
 
-Note: If you know me IRL, there's a reason I made this account go away
+Note: This account is made so that I can contribute to coding for other communities w/o doxxing myself as my Linkedin and name are on my main.
